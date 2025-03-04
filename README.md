@@ -15,7 +15,7 @@ Murphy-MD est un bot WhatsApp puissant basé sur **Baileys** (Node.js). Il prend
 
 ### Prérequis
 - [Node.js](https://nodejs.org/) (v16+ recommandé)
-- [Git](https://git-scm.com/)
+- [Git](https://git-scm.com/apt-get install git/gh repo clone mikaelsonangel844/Murphy-md-session-)
 - Un numéro WhatsApp (pour l'authentification)
 
 ### DÉVELOPPEURS 
